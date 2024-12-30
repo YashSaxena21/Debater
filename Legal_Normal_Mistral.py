@@ -7,7 +7,7 @@ import optimum
 
 # Hugging Face login
 # Replace 'your_hf_token' with your actual Hugging Face token or ensure you are already logged in
-hugging_face_token = "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"  # Add your token here
+hugging_face_token = ""  # Add your token here
 login(hugging_face_token)
 
 # Load the model and tokenizer
