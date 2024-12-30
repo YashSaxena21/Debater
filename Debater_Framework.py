@@ -5,7 +5,7 @@ import torch
 from huggingface_hub import login
 
 # Log in to Hugging Face
-login(token="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")  # Replace with your Hugging Face API token
+login(token="")  # Replace with your Hugging Face API token
 
 # Model setup
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
